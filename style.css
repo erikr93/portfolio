@@ -94,3 +94,23 @@ h1{
     width: 20%;
     margin-left: 25%;
 }
+.bottom-card{
+    margin-top: -65%;
+    margin-left: 80%;
+    width: 150%;
+}
+.bottom-card-1{
+    margin-top: -100%;
+    margin-left: 80%;
+    width: 150%;
+}
+.right-card{
+    margin-top: -65%;
+    margin-left: -140%;
+    width: 150%;
+}
+.right-card-1{
+    margin-top: -100%;
+    margin-left: -140%;
+    width: 150%;
+}
