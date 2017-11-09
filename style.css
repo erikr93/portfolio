@@ -1,0 +1,96 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    text-align: center;
+    height: 100%;
+    padding-top: 4%;
+}
+.side-bar{
+    height: 100%;
+    width: 100%;
+}
+.name{
+    font-family: 'Noto Serif', serif;
+}
+.me{
+    width: 40%;
+    height: 40%;
+    padding-top: 10%;
+}
+.job{
+    font-family: 'Inconsolata', monospace;
+}
+.brand{
+    padding-top: 5%;
+    font-size: 20px;
+    font-family: 'Inconsolata', monospace;
+    padding-bottom: 4%;
+}
+h1{
+    font-size: 48px;
+}
+.w3-bar{
+    height: 8%;
+    position: fixed;
+}
+.w3-bar-item{
+    font-size: 24px;
+}
+.project1{
+    width: 40%;
+    height: 60%;
+    border: 1px black solid;
+}
+.project3{
+    width: 40%;
+    height: 60%;
+    border: 1px black solid;
+}
+.number1{
+    padding-left: 10%;
+    width: 90%;
+    height: 70%;
+}
+.number2{
+    padding-left: 10%;
+    width: 90%;
+    height: 70%;
+    padding-bottom: 46.4%;
+}
+.project-title{
+    font-family: 'Noto Serif', serif;
+    padding-top: 20%;
+    padding-bottom: -10%;
+    text-align: center;
+}
+.github {
+    height: 10%;
+    width: 10%;
+    margin: 0 auto;
+    margin-left: 25%;
+    display: inline-block;
+}
+.email {
+    height: 10%;
+    width: 10%;
+    margin: 0 auto;
+    margin-left: 25%;
+    display: inline-block;
+}
+.linkedin{
+    width: 10%;
+}
+.online{
+    height: 10%;
+    width: 10%;
+    margin: 0 auto;
+    margin-left: 25%;
+    display: inline-block;
+}
+.githubwhite {
+    height: 20%;
+    width: 20%;
+    margin-left: 25%;
+}
