@@ -100,7 +100,7 @@ h1{
     width: 150%;
 }
 .bottom-card-1{
-    margin-top: -100%;
+    margin-top: -110%;
     margin-left: 80%;
     width: 150%;
 }
@@ -110,7 +110,12 @@ h1{
     width: 150%;
 }
 .right-card-1{
-    margin-top: -100%;
+    margin-top: -110%;
     margin-left: -140%;
     width: 150%;
+}
+.download{
+    height: 30%;
+    width: 1.2%;
+    margin-top: 1.2%;
 }
